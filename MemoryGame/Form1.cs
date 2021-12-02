@@ -62,10 +62,9 @@ namespace MemoryGame
             {
                 pictureBoxes[i].Image = cardBack;
             }
-
-
-
+            //Delete This**************************************************************
         }
+
         private void Form1_Load(object sender, EventArgs e)
         {
             cardImages = new Bitmap[]
